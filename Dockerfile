@@ -6,23 +6,7 @@
 #
 # See http://www.mathworks.com/products/compiler/mcr/ for more info.
 
-
-#Configure node environment
-#FROM node:lts-slim
-
-#RUN mkdir -p /usr/src/app
-#RUN npm install --silent
-
-#WORKDIR /usr/src/app
-
-#EXPOSE 3000
-
-#CMD [ "npm", "start" ]
-
-
-
 FROM debian:stretch-slim
-
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get -q update && \
     apt-get install -q -y --no-install-recommends \
@@ -49,15 +33,16 @@ RUN mkdir /mcr-install && \
 ENV LD_LIBRARY_PATH /opt/mcr/v98/runtime/glnxa64:/opt/mcr/v98/bin/glnxa64:/opt/mcr/v98/sys/os/glnxa64
 ENV XAPPLRESDIR /opt/mcr/v98/X11/app-defaults
 
+# copy local file from host into the image
+COPY . /usr/src/app
 
-#Configur
+
+
+
+#Configure node environment
 #FROM node:lts-slim
-
 #RUN mkdir -p /usr/src/app
 #RUN npm install --silent
-
 #WORKDIR /usr/src/app
-
 #EXPOSE 3000
-
 #CMD [ "npm", "start" ]
