@@ -1,0 +1,36 @@
+version: "3"
+services:
+    matlab:
+        stdin_open: true
+        tty: true
+        container_name: matlab_r2020a
+        build:
+            context: ./matlab-dockerfile
+            dockerfile: Dockerfile
+        image: matlab
+        ports:
+            - "3000:3000"
+        volumes:
+            - ./matlab-dockerfile:/usr/src/app
+
+   # backend:
+   #     container_name: awesome_server
+   #     build:
+   #         context: ./server
+   #         dockerfile: Dockerfile
+   #     image: asinha403/awesome_server
+   #     ports:
+   #         - "5000:5000"
+   #     volumes:
+   #         - ./server:/usr/src/app
+
+   # mysql:
+   #     container_name: awesome_database
+   #    build:
+   #         context: ./mysql
+   #         dockerfile: Dockerfile
+   #     image: asinha403/awesome_database
+   #     ports:
+   #         - "3306:3306"
+        # volumes:
+        #     - ./server:/usr/src/app
