@@ -1,0 +1,1374 @@
+    1  ls -a
+    2  zcalc
+    3  cd Documents
+    4  ls -a
+    5  cd GPU_Programming_Assignments
+    6  scp -r Lab2 afm357@access.cims.nyu.edu:~GPU_Labs/
+    7  scp -r Lab2 afm357@access.cims.nyu.edu:"~/GPU_Labs/"
+    8  scp -r Lab2 afm357@access.cims.nyu.edu:~/GPU_Labs/
+    9  ssh afm357@access.cims.nyu.edu
+   10  ssh afm357
+   11  man ssh
+   12  ssh -t zsh
+   13  ssh afm357@access.cims.nyu.edu -t zsh
+   14  ssh afm357@128.122.49.15
+   15  ssh -v afm357@access.cims.nyu.edu
+   16  scp -vr Lab2 afm357@access.cims.nyu.edu:~/GPU_Labs/
+   17  bash
+   18  ls -a
+   19  ssh -v afm357@access.cims.nyu.edu
+   20  ssh afm357@access.cims.nyu.edu
+   21  ssh afm357@access.cims.nyu.edu
+   22  ssh afm357@access.cims.nyu.edu
+   23  ssh afm357@access.cims.nyu.edu
+   24  ssh afm357@access.cims.nyu.edu
+   25  ssh afm357@access.cims.nyu.edu
+   26  ssh afm357@access.cims.nyu.edu
+   27  ssh -v afm357@access.cims.nyu.edu
+   28  ssh -v afm357@access.cims.nyu.edu
+   29  ssh afm357@access.cims.nyu.edu
+   30  ssh afm357@access.cims.nyu.edu
+   31  ssh afm357@access.cims.nyu.edu
+   32  ssh afm357@access.cims.nyu.edu
+   33  ssh afm357@access.cims.nyu.edu
+   34  dumbo.hpc.nyu.edu
+   35  ssh dumbo.hpc.nyu.edu
+   36  ssh dumbo.hpc.nyu.edu
+   37  ssh dumbo.hpc.nyu.edu
+   38  ssh afm357@dumbo.hpc.nyu.edu
+   39  ssh afm357@dumbo.hpc.nyu.edu
+   40  ssh afm357@access.cims.nyu.edu
+   41  system_profiler SPDisplaysDataType
+   42  ssh afm357@access.cims.nyu.edu
+   43  ssh afm357@access.cims.nyu.edu
+   44  ssh afm357@access.cims.nyu.edu
+   45  ssh afm357@dumbo.hpc.nyu.edu
+   46  vim /etc/profile
+   47  ls -C
+   48  cd Documents
+   49  ls -C
+   50  ls -c
+   51  dircolors
+   52  ls dircolors
+   53  ls --Color
+   54  ls -a --color
+   55  cd ~
+   56  ls -a
+   57  vim .zshrc
+   58  ls man
+   59  man ls
+   60  vim .zshrc
+   61  vim .vimrc
+   62  vim .zshrc
+   63  ls -a
+   64  vim .zshrc
+   65  ls -a
+   66  vim .lsrc
+   67  ls -G
+   68  ls -aG
+   69  ls -a
+   70  ls -G
+   71  ls -a
+   72  vim .zshrc
+   73  ls 
+   74  ls -a
+   75  ls -G
+   76  mv .zshrc .profile
+   77  ls 
+   78  l s-a
+   79  l s-a
+   80  ls -a
+   81  vim .bash_profile
+   82  mv .profile .zshrc
+   83  ls -a
+   84  vim .zshrc
+   85  ls -a
+   86  ls 
+   87  vim .zshrc
+   88  ssh afm357@access.cims.nyu.edu
+   89  ssh afm357@access.cims.nyu.edu
+   90  ls -a
+   91  cd Documents
+   92  ls -a
+   93  cd MiuMiuPics
+   94  cd ..
+   95  l s-a
+   96  ls -a
+   97  cd ..
+   98  color
+   99  ls --color=auto -a
+  100  ls -a --color=auto
+  101  ls -a -color=auto
+  102  man ls
+  103  ls CLICOLOR
+  104  ls -CLICOLOR
+  105  man ls
+  106  ls -a --color=auto
+  107  man ls
+  108  ls 
+  109  cd ..
+  110  cde ~
+  111  cd ~
+  112  ls -0a
+  113  ls -a
+  114  vim .zshrc
+  115  ls
+  116  ls 
+  117  ls
+  118  ls -a
+  119  vim .zshrc
+  120  ls
+  121  ls -a
+  122  vim .zshrc
+  123  ls -a
+  124  ssh afm357@access.cims.nyu.edu
+  125  ssh afm357@dumbo.hpc.nyu.edu
+  126  ssh afm357@dumbo.hpc.nyu.edu
+  127  ssh afm357@access.cims.nyu.edu
+  128  ssh afm357@access.cims.nyu.edu
+  129  ssh afm357@access.cims.nyu.edu
+  130  ssh afm357@access.cims.nyu.edu
+  131  ssh afm357@access.cims.nyu.edu
+  132  ssh afm357@access.cims.nyu.edu
+  133  ssh afm357@access.cims.nyu.edu
+  134  ssh afm357@access.cims.nyu.edu
+  135  ssh afm357@access.cims.nyu.edu
+  136  ssh afm357@access.cims.nyu.edu
+  137  ssh afm357@access.cims.nyu.edu
+  138  ssh afm357@access.cims.nyu.edu
+  139  ssh afm357@access.cims.nyu.edu
+  140  ls -a
+  141  vim .zshrc
+  142  ssh afm357@access.cims.nyu.edu
+  143  ssh afm357@access.cims.nyu.edu
+  144  ssh afm357@access.cims.nyu.edu
+  145  ssh afm357@access.cims.nyu.edu
+  146  ssh afm357@access.cims.nyu.edu
+  147  ssh afm357@access.cims.nyu.edu
+  148  ssh afm357@access.cims.nyu.edu
+  149  ssh afm357@access.cims.nyu.edu
+  150  scp Downloads/Kickstarter_Tech.json afm357@access.cims.nyu.edu:~
+  151  ssh afm357@access.cims.nyu.edu
+  152  ssh afm357@access.cims.nyu.edu
+  153  ssh afm357@access.cims.nyu.edu
+  154  ssh afm357@access.cims.nyu.edu
+  155  ssh afm357@access.cims.nyu.edu
+  156  ssh afm357@access.cims.nyu.edu
+  157  ssh afm357@access.cims.nyu.edu
+  158  ssh afm357@dumbo.nyu.edu
+  159  ssh afm357@dumbo.hpc.nyu.edu
+  160  ssh afm357@access.cims.nyu.edu
+  161  ssh afm357@access.cims.nyu.edu
+  162  ssh afm357@access.cims.nyu.edu
+  163  ssh afm357@access.cims.nyu.edu
+  164  ssh afm357@access.cims.nyu.edu
+  165  ssh afm357@access.cims.nyu.edu
+  166  ssh afm357@access.cims.nyu.edu
+  167  ssh afm357@access.cims.nyu.edu
+  168  ssh afm357@access.cims.nyu.edu
+  169  ssh afm357@access.cims.nyu.edu
+  170  ssh afm357@access.cims.nyu.edu
+  171  ssh afm357@access.cims.nyu.edu
+  172  ssh afm357@access.cims.nyu.edu
+  173  ssh afm357@access.cims.nyu.edu
+  174  ssh afm357@access.cims.nyu.edu
+  175  ssh afm357@access.cims.nyu.edu
+  176  ssh afm357@access.cims.nyu.edu
+  177  ssh afm357@access.cims.nyu.edu
+  178  ssh afm357@access.cims.nyu.edu
+  179  ssh afm357@access.cims.nyu.edu
+  180  ssh afm357@access.cims.nyu.edu
+  181  ssh afm357@access.cims.nyu.edu
+  182  ssh afm357@access.cims.nyu.edu
+  183  ssh afm357@access.cims.nyu.edu
+  184  ssh afm357@access.cims.nyu.edu
+  185  ssh afm357@access.cims.nyu.edu
+  186  ssh afm357@access.cims.nyu.edu
+  187  ssh afm357@access.cims.nyu.edu
+  188  ssh afm357@access.cims.nyu.edu
+  189  ssh afm357@access.cims.nyu.edu
+  190  ssh afm357@access.cims.nyu.edu
+  191  ssh afm357@access.cims.nyu.edu
+  192  ssh afm357@access.cims.nyu.edu
+  193  ssh afm357@access.cims.nyu.edu
+  194  ssh afm357@access.cims.nyu.edu
+  195  ssh afm357@access.cims.nyu.edu
+  196  ssh afm357@access.cims.nyu.edu
+  197  ssh afm357@access.cims.nyu.edu
+  198  ssh afm357@access.cims.nyu.edu
+  199  ssh afm357@access.cims.nyu.edu
+  200  ssh afm357@dumbo.hpc.nyu.edu
+  201  ssh afm357@access.cims.nyu.edu
+  202  ls -a
+  203  ssh afm357@access.cims.nyu.edu
+  204  ssh afm357@access.cims.nyu.edu
+  205  ssh afm357@access.cims.nyu.edu
+  206  ssh afm357@access.cims.nyu.edu
+  207  ls -a
+  208  cd ..
+  209  cd ..
+  210  cd Deep_Learning_Performance
+  211  scp afm357@access.cims.nyu.edu:~/afm357.tar .
+  212  ls 0a
+  213  ls -a
+  214  mv afm357_Results.pdf Results.pdf
+  215  tar -rvf afm357.tar Results.pdf
+  216  tar -czrvf afm357.tar Results.pdf
+  217  tar -zrvf afm357.tar Results.pdf
+  218  tar -xvf afm357.tar
+  219  ls -a
+  220  tar -zrvf afm357.tar Results.pdf
+  221  tar -rvf afm357.tar Results.pdf
+  222  mv Results.pdf afm357Lab1
+  223  ls -a
+  224  tar -czvf afm357.tar afm357Lab1/
+  225  vim afm357.tar
+  226  kill "Microsoft Excel"
+  227  task
+  228  tasks
+  229  pid
+  230  jobs
+  231  jobs
+  232  job
+  233  ssh afm357@access.cims.nyu.edu
+  234  ssh afm357@access.cims.nyu.edu
+  235  ssh afm357@access.cims.nyu.edu
+  236  ssh afm357@access.cims.nyu.edu
+  237  ssh afm357@access.cims.nyu.edu
+  238  ssh afm357@access.cims.nyu.edu
+  239  ssh afm357@access.cims.nyu.edu
+  240  ssh afm357@access.cims.nyu.edu
+  241  ssh afm357@access.cims.nyu.edu
+  242  ssh afm357@access.cims.nyu.edu
+  243  ssh afm357@access.cims.nyu.edu
+  244  ssh afm357@access.cims.nyu.edu
+  245  ssh afm357@access.cims.nyu.edu
+  246  ssh afm357@access.cims.nyu.edu
+  247  cd ..
+  248  cd ..
+  249  cd ..
+  250  cd GradPie_Code\ 20160814_Latest_copy
+  251  ls -a
+  252  cd gradpie_backend_code
+  253  ls -a
+  254  vim csv.php
+  255  vim email.php
+  256  vim index.php
+  257  vim gradpie.sql
+  258  cd system
+  259  ls -a
+  260  cd ..
+  261  vom .htaccess
+  262  vim .htaccess
+  263  cd api
+  264  ls -a
+  265  cd Slim
+  266  ls -a
+  267  vim Environment.php
+  268  vim mod
+  269  ccd ..
+  270  cd ..
+  271  vom model
+  272  cd model
+  273  ls -a
+  274  cd ..
+  275  slim
+  276  brew install slim
+  277  ls -a
+  278  cd ..
+  279  ls -a
+  280  cd system
+  281  ls -a
+  282  cd database
+  283  ls -a
+  284  vim DB.php
+  285  cd ..
+  286  ls -a
+  287  cd fonts
+  288  ls -a
+  289  vim index.html
+  290  cd ..
+  291  cd ..
+  292  ls -a
+  293  cd uploads
+  294  ls -a
+  295  cd ..
+  296  cd user_guide
+  297  ls -a
+  298  cd ..
+  299  heroku
+  300  heroku apps
+  301  heroku login
+  302  heroku login afm08c@gmail.com
+  303  heroku apps
+  304  heroku apps GradPie-Backend
+  305  git init GradPie-Backend
+  306  ls -a
+  307  cd GradPie-Backend
+  308  ls -a
+  309  cd ..
+  310  rm GradPie-Backend
+  311  rm -r
+  312  rm -r GradPie-Backend
+  313  git init .
+  314  ls -a
+  315  cd .git
+  316  ls -a
+  317  cd..
+  318  cd ..
+  319  rm -r .git
+  320  git remote add origin https://github.com/Greatness846/GradPie-Backend.git
+  321  git init
+  322  git remote add origin https://github.com/Greatness846/GradPie-Backend.git
+  323  git push -u origin master
+  324  ls -a
+  325  git push -u origin master
+  326  cd ..
+  327  git push -u origin master
+  328  cd Gradpie
+  329  cd ..
+  330  cd gradpie_backend_code
+  331  ls -a
+  332  git init
+  333  git add README.md
+  334  vim README.md
+  335  git add README.md
+  336  git commit -m "First Commit"
+  337  git config user.email "afm08c@gmail.com"
+  338  git config user.name "Greatness846"
+  339  git commit -m "First Commit"
+  340  git push -u origin master
+  341  ls -a
+  342  git add .
+  343  git commit -m "Adding Entire Backend Code"
+  344  git push -u origin master
+  345  heroku
+  346  heroku git
+  347  heroku git::remote https://github.com/Greatness846/GradPie-Backend.git
+  348  heroku git:remote https://github.com/Greatness846/GradPie-Backend.git
+  349  heroku git:remote
+  350  heroku git:remote --app https://github.com/Greatness846/GradPie-Backend.git
+  351  heroku git:remote --app GradPie-Backend.git
+  352  heroku git:remote --app GradPie-Backend
+  353  heroku create
+  354  ls -a
+  355  heroku create GradPie-Backend
+  356  heroku create gradpie-backend
+  357  git remote
+  358  git remote -v
+  359  heroku git:remote -a gradpie-backend
+  360  git remote -v
+  361  git push heroku master
+  362  ls -a
+  363  cd application
+  364  ls -a
+  365  cd controllers
+  366  ls -a
+  367  vim Auth.php
+  368  cd ..
+  369  l s-a
+  370  ls -a
+  371  cd config
+  372  ls -a
+  373  vim config.php
+  374  vim migration.php
+  375  cd ..
+  376  cd models
+  377  ls -a
+  378  vim index.html
+  379  cd ..
+  380  ls -a
+  381  vim .htaccess
+  382  cd ..
+  383  ls -a
+  384  cd system
+  385  ls -a
+  386  cd database
+  387  ls -a
+  388  vim DB.php
+  389  cd ..
+  390  ls -a
+  391  cd ..
+  392  ls -a
+  393  cd application
+  394  ls 0a
+  395  ls -a
+  396  cd config
+  397  ls -a
+  398  vim config.php
+  399  vim database.php
+  400  cd ..
+  401  vim controllers/Auth.php
+  402  cd ..
+  403  ls -a
+  404  heroku addons
+  405  vim application/config/database.php
+  406  cd ../../InfoProjects/cloudmr/cloudmrhub
+  407  ls -a
+  408  cd ../InfoProjects/cloudmr
+  409  ls  -a
+  410  cd cloudmrhub
+  411  ls -a
+  412  vim README.md
+  413  git
+  414  github
+  415  git
+  416  brew
+  417  ls -a
+  418  d cd ..
+  419  cd ..
+  420  ls -a
+  421  mkdir InfoProjects
+  422  cd InfoProjects
+  423  mkdir cloudmr
+  424  cd cloudmr
+  425  clone
+  426  git che
+  427  xcode-select --install
+  428  git
+  429  git clone erosmontin/cloudmrhub
+  430  git clone https://github.com/erosmontin/cloudmrhub
+  431  ls-a
+  432  ls -a
+  433  cd cloudmrhub
+  434  ls -a
+  435  vim README.md
+  436  vim README.md
+  437  composer install
+  438  vim README.md
+  439  vim composer.json
+  440  cd ..
+  441  git pull https://github.com/erosmontin/cloudmrhub
+  442  git pull https://github.com/erosmontin/cloudmrhub.git
+  443  cd cloudmrhub
+  444  vim README.md README.md
+  445  brew
+  446  brew install composer
+  447  vim README.md
+  448  heroku
+  449  vim README.md
+  450  composer install
+  451  vim README.md
+  452  ls -a
+  453  mv .env.example .env
+  454  vim .env
+  455  cd database
+  456  ls -a
+  457  cd migrations
+  458  ls -a
+  459  cd ..
+  460  cd ..
+  461  composer fund
+  462  vim config/database.php
+  463  vim .env
+  464  touch database/database.sqlite
+  465  vim database/database.sqlite
+  466  pwd .
+  467  pwd
+  468  vim database/database.sqlite
+  469  vim .env
+  470  php artisan key:generate
+  471  php artisan migrate:fresh --seed
+  472  php artisan serve
+  473  ls -a
+  474  vim database/database.sqlite
+  475  rm database/database.sqlite
+  476  touch database/database.sqlite
+  477  php artisan key:generate
+  478  php artisan migrate:fresh --seed
+  479  php artisan serve
+  480  php artisan serve
+  481  php artisan serve
+  482  php artisan serve
+  483  cd ..
+  484  ls -a
+  485  cd cloudmr_react/models
+  486  ls -a
+  487  vim user
+  488  vim userapps.js
+  489  vim user_app.js
+  490  npm run watch 
+  491  npm
+  492  npm update
+  493  npm run watch 
+  494  npm run watch
+  495  npm install cross-env
+  496  npm run watch
+  497  npm run watch
+  498  ls -a
+  499  cd a
+  500  cd app
+  501  ls -a
+  502  vim Cloudapp.php
+  503  vom Http
+  504  cd Htto
+  505  cd ..
+  506  ls -a
+  507  vim server.php
+  508  vim resources/views
+  509  vim resources/views/cloudapp
+  510  vim server.php
+  511  vim public/index.php
+  512  laravel
+  513  ls -a
+  514  cd vendor
+  515  ls -a
+  516  cd ..
+  517  cd public
+  518  ls -a
+  519  cd js
+  520  ls -a
+  521  vim app.js
+  522  cd ..
+  523  vim index.php
+  524  cd ..
+  525  artisan cache:clear
+  526  php artisan cache:clear
+  527  ls -a
+  528  cd routes
+  529  ls -a
+  530  vim api.php
+  531  vim channels.php
+  532  vim console.php
+  533  vim web.php
+  534  node
+  535  nodejs
+  536  cd ..
+  537  lks -a
+  538  ls -a
+  539  cd ..
+  540  ls -a
+  541  mv cloudmrhub cloudmrhubLaravel
+  542  bitbucket
+  543  brew bitbucket
+  544  git
+  545  git clone https://Skillz846@bitbucket.org/Skillz846/cloudmr_react.git
+  546  git clone https://Skillz846@bitbucket.org/Skillz846/cloudmr_react.git
+  547  ls -a
+  548  rm -r cloudmr_react
+  549  ls -a
+  550  cd cloudmr
+  551  cd cloudmr_react
+  552  ls -a
+  553  cd .git
+  554  ls -a
+  555  cd ../..
+  556  l s0pa
+  557  ls -a
+  558  cd cloudmr
+  559  cd cloudmr_react
+  560  git pull https://Skillz846@bitbucket.org/Skillz846/cloudmr_react.git
+  561  cd ..
+  562  git pull https://Skillz846@bitbucket.org/Skillz846/cloudmr_react.git
+  563  git clone git@bitbucket.org:Skillz846/cloudmr_react.git
+  564  git pull git@bitbucket.org:Skillz846/cloudmr_react.git
+  565  git pull https://Skillz846@bitbucket.org/Skillz846/cloudmr_react.git
+  566  git clone git@bitbucket.org:Skillz846/cloudmr_react.git
+  567  git clone git@bitbucket.org:Skillz846/cloudmr_react.git
+  568  git clone git@bitbucket.org:Skillz846/cloudmr_react.git
+  569  git pull https://Skillz846@bitbucket.org/Skillz846/cloudmr_react.git
+  570  git clone https://Skillz846@bitbucket.org/Skillz846/cloudmr_react.git
+  571  cd cloudmr_react
+  572  ls -a
+  573  mv /Users/andysmacbookpro/Downloads/cloudmrh_main.sql .
+  574  vim cloudmrh_main.sql
+  575  cd models
+  576  ls -a
+  577  vim user_app.js
+  578  cd mig
+  579  cd ../migrations
+  580  ls -a
+  581  vim 20200703195929-create-app.js
+  582  cd ..
+  583  cd routes
+  584  ls -a
+  585  cd api
+  586  ls -a
+  587  vim users.js
+  588  cd ./.
+  589  cd ..
+  590  ls -a
+  591  vim index.js
+  592  cd ..
+  593  ls -a
+  594  cd config
+  595  ls -a
+  596  vim config.json
+  597  vim passport.js
+  598  ls -a
+  599  cd ..
+  600  cd validation
+  601  ls -a
+  602  vim login.js
+  603  cd ../..
+  604  ls -a
+  605  cd cloudmr_react
+  606  npm init
+  607  ls -a
+  608  vim package.json
+  609  vim package.json
+  610  vim package.json
+  611  ls -a
+  612  vim client
+  613  cd client
+  614  ls -a
+  615  cd ..
+  616  npm init
+  617  npm install -g npm
+  618  vim package
+  619  vim package.json
+  620  npm install
+  621  npm audit fix
+  622  npm audit
+  623  npm start
+  624  ls -a
+  625  vim server.js
+  626  cd routes
+  627  ls -a
+  628  vim index.js
+  629  cd ..
+  630  npm start
+  631  vim routes/index.js
+  632  npm start
+  633  vim routes/index.js
+  634  npm start
+  635  vim routes/index.js
+  636  npm start
+  637  vim routes/index.js
+  638  ls 0a
+  639  ls -a
+  640  vim cloudmrh_main.sql
+  641  vim node_modules/validation
+  642  vim validation
+  643  vim routes/index.js
+  644  cd validation
+  645  ls -a
+  646  vim login.js
+  647  vim register.js
+  648  cd ..
+  649  cd config
+  650  ls 0a
+  651  ls -a
+  652  cd ..
+  653  cd np
+  654  cd node_modules
+  655  ls -a
+  656  cd api
+  657  cd ..
+  658  ls -a
+  659  cd client
+  660  ls p0a
+  661  ls -a
+  662  cd ..
+  663  cd models
+  664  ls -a
+  665  cd rou
+  666  cd ../routes
+  667  ls -a
+  668  cd api
+  669  ls -a
+  670  vim users.js
+  671  cd ..
+  672  ls -a
+  673  vim index.js
+  674  cd ..
+  675  ls -a
+  676  clien
+  677  ls -a
+  678  vim server.js
+  679  cd routes
+  680  ls -a
+  681  vim index.js
+  682  vim index.js
+  683  npm start
+  684  cd ..
+  685  npm start
+  686  vim routes/index.js
+  687  npm start
+  688  vim routes/index.js
+  689  vim routes/api/users.js
+  690  npm start
+  691  ls -a
+  692  cd routes
+  693  ls -a
+  694  vim index.js
+  695  cd api
+  696  ls -a
+  697  vim users.js
+  698  vim users.js
+  699  cd ..
+  700  ls -a
+  701  cd ..
+  702  ls -a
+  703  vim .env
+  704  cd cl
+  705  cd client
+  706  ls -a
+  707  cd ..
+  708  cd congi
+  709  cd config
+  710  ls -a
+  711  vim config.json
+  712  vim passport.js
+  713  cd ..
+  714  cd model
+  715  ls -a
+  716  cd models
+  717  ls -a
+  718  vim user
+  719  vim user.js
+  720  vim user_app.js
+  721  vim user.js
+  722  vim user_app.js
+  723  vim user.js
+  724  vim index.js
+  725  vim ../validation/register.js
+  726  vim app.js
+  727  vim app.js
+  728  vim applications.js
+  729  vim bugs.js
+  730  vim data.js
+  731  vim developers.js
+  732  vim errors.js
+  733  vim feedback.js
+  734  vim userapps.js
+  735  vivim user_app.js
+  736  vim user_app.js
+  737  vim useruiid.js
+  738  vim cities.js
+  739  vim states.js
+  740  vim countries.js
+  741  ls -=a
+  742  ls -a
+  743  vim user_app.js
+  744  vim user.js
+  745  vim applications.js
+  746  vim user.js
+  747  vim applications.js
+  748  vim app.js
+  749  vim bugs.js
+  750  vim cities.js
+  751  vim countries.js
+  752  vim data.js
+  753  vim developers.js
+  754  vim errors.js
+  755  vim feedback.js
+  756  vim states.js
+  757  vim useruiid.js
+  758  vim userapps.js
+  759  vim applications.js
+  760  vim applications.js
+  761  vim userapps.js
+  762  ls -a
+  763  vim app
+  764  cd ../..
+  765  ls -a
+  766  cd cloudmr_react
+  767  ls -a
+  768  cd client
+  769  ls -a
+  770  cd ..
+  771  cd validation
+  772  ls -a
+  773  vim login.js
+  774  vim .gitignore
+  775  cd ..
+  776  vim .gitignore
+  777  vim .gitignore
+  778  ls -a
+  779  cd routes
+  780  ls -a
+  781  vim index.js
+  782  cd ..
+  783  ls -a
+  784  vim models
+  785  vim models/applications.js
+  786  ls -a
+  787  cd models
+  788  ls -a
+  789  vim applications.js
+  790  cd ..
+  791  git pull
+  792  vim routes/index.js
+  793  git stash routes/index.js
+  794  git stash
+  795  git pull
+  796  vim routes/index.js
+  797  ls -a routes/api
+  798  vim routes/api/users.js
+  799  ls -a
+  800  cd models
+  801  ls -a
+  802  cd ..
+  803  vim server.js
+  804  ls -a
+  805  vim .env
+  806  ls -a  client
+  807  ls -a utils
+  808  ls -a .git
+  809  ls -a config
+  810  cd models
+  811  ls -a
+  812  vim app
+  813  vim app.js
+  814  vim applications.js
+  815  vim user_app.js
+  816  vim userapps.js
+  817  vim applications.js
+  818  ls -a
+  819  vim index.js
+  820  vim user_app.js
+  821  vim app.js
+  822  ls-a
+  823  ls -a
+  824  cd ..
+  825  ls -a
+  826  cd routes
+  827  ls -a
+  828  vim index.js
+  829  cd api
+  830  ls -a
+  831  vim users.js
+  832  vim ../../models/user.js
+  833  cd ../..
+  834  ls -a
+  835  git commit "Models are completed: TODO routes for api"
+  836  git commit . "Models are completed: TODO routes for api"
+  837  git commit .
+  838  ls -a client
+  839  git commit models
+  840  git push .
+  841  git push .
+  842  cd models
+  843  git push .
+  844  cd ..
+  845  git
+  846  cd ..
+  847  cd cloudmr
+  848  cd cloudmr_react
+  849  ls -a
+  850  cd models
+  851  git add .
+  852  cd ..
+  853  git push .
+  854  git commit .
+  855  ivm .gitignore
+  856  vim .gitignore
+  857  git commit .
+  858  vim .gitignore
+  859  git user
+  860  git .
+  861  cd .git
+  862  ls -a
+  863  vim config
+  864  cd ..
+  865  git push .
+  866  git fetch && git checkout
+  867  git push .
+  868  git commit .
+  869  git commit models
+  870  git config --global user.email "afm357@nyu.edu"
+  871  git config --global user.name "Andy"
+  872  git commit models
+  873  git push .
+  874  git push .
+  875  git pull
+  876  git push .
+  877  vim models/applications.js
+  878  git push origin master
+  879  ls -a
+  880  cd routes
+  881  l;s -a
+  882  ls -a
+  883  ls -a
+  884  ls -a
+  885  c api
+  886  cd api
+  887  ls -a
+  888  vim users.js
+  889  vim user_apps.js
+  890  vim user_apps.js
+  891  ls -a
+  892  cd ..
+  893  cd ../..
+  894  ls -a
+  895  ls cloudmr_react
+  896  cd client
+  897  cd cloudmr_react
+  898  cd client
+  899  ls 0-a
+  900  ls -a
+  901  cd ..
+  902  ls -a
+  903  cd ..
+  904  cd WEBSERVER
+  905  ls -a
+  906  vim MR.py
+  907  vim myH.py
+  908  vim MR.py
+  909  vim myH.py
+  910  vim MR.py
+  911  vim PMR.py
+  912  vim DI.py
+  913  vim ACM.py
+  914  vim ACMtask.m
+  915  vim MR.py
+  916  vim MRtask.m
+  917  vim MR.py
+  918  vim myH.py
+  919  vim MRtask.m
+  920  cd ..
+  921  find -r getMROPTDATAinfoByIdGET
+  922  find -r getMROPTDATAinfoByIdGET .
+  923  find -r . getMROPTDATAinfoByIdGET
+  924  find . getMROPTDATAinfoByIdGET
+  925  cd WEBSERVER
+  926  vim MRtask.m
+  927  vim MR.py
+  928  vim MRtask.m
+  929  vim myH.py
+  930  ls -a
+  931  vim ../serverscripts
+  932  vim ../serverscripts/192conf.php
+  933  vim myH.py
+  934  vim ../serverscripts/192conf.php
+  935  vim ../serverscripts/CMMRconf.py
+  936  vim myH.py
+  937  vim ../serverscripts/CMMRconf.py
+  938  vim MRtask.m
+  939  vim myH.py
+  940  vimk examplerestfullAPIinsetjob.
+  941  vimk examplerestfullAPIinsetjob.py
+  942  vim examplerestfullAPIinsetjob.py
+  943  ls -a
+  944  vim PMRtask.m
+  945  cd ..
+  946  ls -a
+  947  cd WEB
+  948  ls -a
+  949  cd MROPTIMUM
+  950  ls -a
+  951  cd mroQ
+  952  ls -a
+  953  vim serviceAPI.php
+  954  vim utils/Job.php
+  955  cd ../..
+  956  ls -a
+  957  cd ..
+  958  ls -a
+  959  php
+  960  man php
+  961  cd WEB/MROPTIMUM/mroQ
+  962  ls -a
+  963  php -S localhost:5000
+  964  ls -a
+  965  cd ..
+  966  ls -a
+  967  vim mroReport.html
+  968  cd ..
+  969  ls -a
+  970  cd ..
+  971  ls -a
+  972  cd serverscripts
+  973  ls -a
+  974  cd ..
+  975  ls -a
+  976  cd c++
+  977  ls -a
+  978  cd ..
+  979  ls -a
+  980  cd WEB
+  981  ls -a
+  982  cd MROPTIMUM
+  983  ls -a
+  984  vim mrofullpage.html
+  985  php -S localhost:5000
+  986  php -S localhost:5000
+  987  l s-a
+  988  ls -a
+  989  vim mrojs/controllers.js
+  990  vim mroPACKAGES/all.css
+  991  cp mroPACKAGES/all.css mroPACKAGES/allBackup.css
+  992  mv mroPACKAGES/all.css mroPACKAGES/style.css
+  993  ls -a mroPACKAGES
+  994  vim mroPACKAGES/angular.min.js.map.json
+  995  mv mroPACKAGES/angular.min.js.map.json mroPACKAGES/angular.min.js.map
+  996  mv mroPACKAGES/style.css .
+  997  cd ..
+  998  cd ..
+  999  cd ..
+ 1000  ls -a
+ 1001  cd cloudmrhubLaravel
+ 1002  ls -a
+ 1003  cd app
+ 1004  ls -a
+ 1005  cd http
+ 1006  ls -a
+ 1007  c d Controllers
+ 1008  cd Controllers
+ 1009  ls -a
+ 1010  vim CloudappsController.php
+ 1011  ls -a
+ 1012  cd ..
+ 1013  cd ..
+ 1014  cd ..
+ 1015  git
+ 1016  git pull
+ 1017  ls -a
+ 1018  cd ..
+ 1019  cd cloudmrhubLaravel
+ 1020  composer install
+ 1021  ls -a
+ 1022  server.php
+ 1023  vim server.php
+ 1024  cd routes
+ 1025  ls -a
+ 1026  vim api.php
+ 1027  vim channels.php
+ 1028  vim web.php
+ 1029  cd ../public
+ 1030  ls -a
+ 1031  vim index.php
+ 1032  ls -a
+ 1033  cd ..
+ 1034  cd ..
+ 1035  cd mroptimum
+ 1036  ls -a
+ 1037  cd WEBSERVER
+ 1038  ls -a
+ 1039  cd ..
+ 1040  cd MATLABCODE
+ 1041  ls -a
+ 1042  cd BARTmatlab
+ 1043  ls -a
+ 1044  cd ..
+ 1045  vim cfg.mat
+ 1046  vim mroptimumbartstatup.m
+ 1047  vim BARTmatlab
+ 1048  vim BARTmatlab/bart.m
+ 1049  cd ..
+ 1050  ls -a
+ 1051  cd WEBSERVER
+ 1052  ls -a
+ 1053  vim MRtask.m
+ 1054  vim MRWORKER.m
+ 1055  vim MR.py
+ 1056  vim myH.py
+ 1057  vim MR.py
+ 1058  vim myH.py
+ 1059  vim MR.py
+ 1060  vim myH.py
+ 1061  vim MR.py
+ 1062  ls -a
+ 1063  cd ..
+ 1064  ls -a
+ 1065  cd WEB/MROPTIMUM/mroQ
+ 1066  vim insertJob.php
+ 1067  ls -a
+ 1068  vim utils/User.php
+ 1069  vim utils/functions.php
+ 1070  vim utils/conf.php
+ 1071  vim insertJob.php
+ 1072  vim utils/Job.php
+ 1073  vim insertJob.php
+ 1074  vim utils/Job.php
+ 1075  vim insertJob.php
+ 1076  vim utils/conf.php
+ 1077  vim insertJob.php
+ 1078  ls -a
+ 1079  cd ..
+ 1080  cd ..
+ 1081  cd ..
+ 1082  cd ..
+ 1083  ls -a
+ 1084  mkdir matlab_backend_api
+ 1085  cd matlab_
+ 1086  cd matlab_backend_api
+ 1087  ls -a
+ 1088  npm init matlabAPI
+ 1089  npm init matlab_api
+ 1090  npm init .
+ 1091  npm init
+ 1092  npm init
+ 1093  ls -a
+ 1094  vim package.json
+ 1095  cd ..
+ 1096  ls -a
+ 1097  cd cloudmr_react
+ 1098  ls -a
+ 1099  vim server.js
+ 1100  cd ..
+ 1101  cd matlab_backend_api
+ 1102  ls -a
+ 1103  cp ../cloudmr_react/server.js
+ 1104  cp ../cloudmr_react/server.js .
+ 1105  cd ..
+ 1106  cd matlab_docker
+ 1107  ls -a
+ 1108  docker-compose up
+ 1109  ls -a
+ 1110  cd MATLABCODE
+ 1111  ls -a
+ 1112  docker run
+ 1113  cd ..
+ 1114  docker run matlab
+ 1115  docker prune
+ 1116  docker system prune
+ 1117  Ling-i Huang2:13 PM\nAndy, is it possible that you tried to "docker run" your MATLAB container instead of "docker-compose"? I could see what's going wrong inside the container with "docker run", and I got the License Error\nnyulangone itp20202:14 PM\nWith docker run, the container starts \nbut then crashes due to space issue \nLing-i Huang2:15 PM\nI see, I was guessing the error you got might also be causing by license error\nEros Montin2:25 PM\n/MATLABCODE/test/mroptimum_test/mr_optimum_example.m\nnyulangone itp20202:26 PM\ndocker run --name mroptmatlab -p 3000:3000 -d  matlab:tag\nLing-i Huang2:27 PM\nAlso, the file is in the github repo, not the bitbucket one. And there might be some PATH you'll need to change in the   .m fi
+ 1118  ls -a
+ 1119  cd MATLABCODE
+ 1120  ls -a
+ 1121  cd ..
+ 1122  cd matlab-dockerfile
+ 1123  ls -a
+ 1124  cd ..
+ 1125  vim ../mroptimum/WEBSERVER/ACMWORKER.m
+ 1126  vim ../mroptimum/WEBSERVER/ACMtask.m
+ 1127  vim ../mroptimum/WEBSERVER/ACMtask.m
+ 1128  mv MATLABCODE matlab-dockerfile
+ 1129  ls -a
+ 1130  cd matlab-dockerfile
+ 1131  ls -a
+ 1132  vim ../../mroptimum/WEBSERVER/ACMtask.m
+ 1133  vim ../../mroptimum/WEBSERVER/ACM.py
+ 1134  vim ../../mroptimum/WEBSERVER/ACMtask.m
+ 1135  ls -a
+ 1136  ls -a
+ 1137  ls -a ..
+ 1138  ls =-a
+ 1139  ls -
+ 1140  ls -pa
+ 1141  cp ~/Documents/MATLAB/ACM/for_testing/ . 
+ 1142  cp -r ~/Documents/MATLAB/ACM/for_testing/ . 
+ 1143  ls -a
+ 1144  mkdir ACMcompiled
+ 1145  mv mccExcludedFiles.log MrOptimum_ACM readme.txt splash.png requiredMCRProducts.txt run_MrOptimum_ACM.sh ACMcompiled
+ 1146  mv mccExcludedFiles.log MrOptimum_ACM readme.txt splash.png requiredMCRProducts.txt run_MrOptimum_ACM.sh ACMcompiled/
+ 1147  ls -s
+ 1148  ls -a
+ 1149  ls -a ACMcompiled
+ 1150  ls -a
+ 1151  ls -a MrOptimum_ACM.app
+ 1152  ls -a MrOptimum_ACM.app/Contents
+ 1153  mv -r MrOptimum_ACM.app ACMcompiled
+ 1154  mv -r MrOptimum_ACM.app ACMcompiled/
+ 1155  mv -r MrOptimum_ACM.app/ ACMcompiled/
+ 1156  mv MrOptimum_ACM.app/ ACMcompiled/
+ 1157  ls -a
+ 1158  cd ACMcompiled
+ 1159  ls -a
+ 1160  cd ..
+ 1161  ls -a
+ 1162  vim Dockerfile
+ 1163  vim Dockerfile.R2019b
+ 1164  vim startmatlab.sh
+ 1165  vim ACMcompiled/readme.txt
+ 1166  mv ~/Downloads/MATLAB_Runtime_R2020a_Update_4_glnxa64/ .
+ 1167  ls -a
+ 1168  cd MATLAB_Runtime_R2020a_Update_4_glnxa64
+ 1169  ls -a
+ 1170  cd ..
+ 1171  vim Dockerfile
+ 1172  rm -r MATLAB_Runtime_R2020a_Update_4_glnxa64/
+ 1173  sudo rm -r MATLAB_Runtime_R2020a_Update_4_glnxa64/
+ 1174  ls -a
+ 1175  mv Dockerfile DockerfileFullInstall
+ 1176  vim Dockerfile
+ 1177  cd ..
+ 1178  docker-compose up
+ 1179  docker-compose build
+ 1180  vim docker-compose.yml
+ 1181  docker-compose build
+ 1182  docker-compose up
+ 1183  docker-compose build
+ 1184  ls -a
+ 1185  vim matlab-dockerfile/Dockerfile
+ 1186  cd ..
+ 1187  cd matlab_docker
+ 1188  docker-compose build
+ 1189  vim matlab-dockerfile/Dockerfile
+ 1190  docker-compose build
+ 1191  docker-compose up
+ 1192  vim docker-compose.yml
+ 1193  docker-compose up
+ 1194  vim matlab-dockerfile/Dockerfile
+ 1195  vim docker-compose.yml
+ 1196  docker-compose up
+ 1197  docker-compose up -v usr/src/app/ACMcompiled:/execute matlab_r2020a /execute/run_MrOptimum_ACM.sh "http://cloudmrhub.com/SHAREDDATA/MROPTIMUMTEST/Signal_Data_Multislice_MULTIRAID.dat" "http://cloudmrhub.com/SHAREDDATA/MROPTIMUMTEST/Noise_Data_Multislice.dat" "{\"Type\":\"SENSE\",\"FlipAngleMap\":\"no\",\"SensitivityCalculationMethod\":\"simplesense\",\"SaveCoils\":false,\"SourceCoilSensitivityMap\":\"self\",\"SourceCoilSensitivityMapSmooth\":false,\"AccelerationF\":1,\"AccelerationP\":1,\"Autocalibration\":0,\"GFactorMask\":\"no\",\"NBW\":1,\"type\":\"SENSE\",\"signaldata\":271,\"NoiseFileType\":\"noiseFile\",\"noisedata\":270,\"alias\":\"SENSE #1\"}" "ResultFile.dat" "Logs.txt" "http://cloudmrhub.com/Q"
+ 1198  docker run --rm -ti -v usr/src/app/ACMcompiled:/execute matlab_r2020a /execute/run_MrOptimum_ACM.sh "http://cloudmrhub.com/SHAREDDATA/MROPTIMUMTEST/Signal_Data_Multislice_MULTIRAID.dat" "http://cloudmrhub.com/SHAREDDATA/MROPTIMUMTEST/Noise_Data_Multislice.dat" "{\"Type\":\"SENSE\",\"FlipAngleMap\":\"no\",\"SensitivityCalculationMethod\":\"simplesense\",\"SaveCoils\":false,\"SourceCoilSensitivityMap\":\"self\",\"SourceCoilSensitivityMapSmooth\":false,\"AccelerationF\":1,\"AccelerationP\":1,\"Autocalibration\":0,\"GFactorMask\":\"no\",\"NBW\":1,\"type\":\"SENSE\",\"signaldata\":271,\"NoiseFileType\":\"noiseFile\",\"noisedata\":270,\"alias\":\"SENSE #1\"}" "ResultFile.dat" "Logs.txt" "http://cloudmrhub.com/Q"
+ 1199  docker-compose up --rm -ti -v usr/src/app/ACMcompiled:/execute matlab_r2020a /execute/run_MrOptimum_ACM.sh "http://cloudmrhub.com/SHAREDDATA/MROPTIMUMTEST/Signal_Data_Multislice_MULTIRAID.dat" "http://cloudmrhub.com/SHAREDDATA/MROPTIMUMTEST/Noise_Data_Multislice.dat" "{\"Type\":\"SENSE\",\"FlipAngleMap\":\"no\",\"SensitivityCalculationMethod\":\"simplesense\",\"SaveCoils\":false,\"SourceCoilSensitivityMap\":\"self\",\"SourceCoilSensitivityMapSmooth\":false,\"AccelerationF\":1,\"AccelerationP\":1,\"Autocalibration\":0,\"GFactorMask\":\"no\",\"NBW\":1,\"type\":\"SENSE\",\"signaldata\":271,\"NoiseFileType\":\"noiseFile\",\"noisedata\":270,\"alias\":\"SENSE #1\"}" "ResultFile.dat" "Logs.txt" "http://cloudmrhub.com/Q"
+ 1200  docker images
+ 1201  docker-compose up
+ 1202  ls -a
+ 1203  cd matlab-dockerfile
+ 1204  ls -a
+ 1205  vim DockerfileFullInstall
+ 1206  vim Dockerfile
+ 1207  cd ..
+ 1208  docker-compose build
+ 1209  ls -a
+ 1210  cd ..
+ 1211  ls -a
+ 1212  cd matlab_
+ 1213  cd matlab_backend_api
+ 1214  ls -a
+ 1215  vim server.js
+ 1216  cd ..
+ 1217  cd cloudmr_react
+ 1218  ls -a
+ 1219  cd ..
+ 1220  cd ..
+ 1221  cd cloudmr
+ 1222  cd mroptimum
+ 1223  ls -a
+ 1224  cd ..
+ 1225  cd matlab_
+ 1226  cd matlab_docker
+ 1227  ls -a
+ 1228  vim docker-compose.yml
+ 1229  cd matlab-dockerfile
+ 1230  cp ../../cloudmr_react_docker .
+ 1231  cp -r ../../cloudmr_react_docker ./cloudmr_react_docker
+ 1232  ls -a
+ 1233  cd cloudmr_react_docker
+ 1234  ls -a
+ 1235  vim docker-compose.yml
+ 1236  cd server
+ 1237  ls -a
+ 1238  vim Dockerfile
+ 1239  vim routes
+ 1240  vim routes/index.js
+ 1241  cd ..
+ 1242  ls -a
+ 1243  vim docker-compose.yml
+ 1244  cd server
+ 1245  ls -a
+ 1246  vim server.js
+ 1247  vim routes/api
+ 1248  vim routes/api/apps.js
+ 1249  vim routes/api/containers.js
+ 1250  vim routes/api/userApps.js
+ 1251  vim routes/api/users.js
+ 1252  vim routes/api/servicAPI.js
+ 1253  vim routes/api/userApps.js
+ 1254  vim routes/api/servicAPI.js
+ 1255  mv routes/api/servicAPI.js routes/api/serviceapi.js
+ 1256  docker images
+ 1257  docker run --rm -ti -v usr/src/app/ACMcompiled:/execute matlab_r2020a /execute/run_MrOptimum_ACM.sh "http://cloudmrhub.com/SHAREDDATA/MROPTIMUMTEST/Signal_Data_Multislice_MULTIRAID.dat" "http://cloudmrhub.com/SHAREDDATA/MROPTIMUMTEST/Noise_Data_Multislice.dat" "{\"Type\":\"SENSE\",\"FlipAngleMap\":\"no\",\"SensitivityCalculationMethod\":\"simplesense\",\"SaveCoils\":false,\"SourceCoilSensitivityMap\":\"self\",\"SourceCoilSensitivityMapSmooth\":false,\"AccelerationF\":1,\"AccelerationP\":1,\"Autocalibration\":0,\"GFactorMask\":\"no\",\"NBW\":1,\"type\":\"SENSE\",\"signaldata\":271,\"NoiseFileType\":\"noiseFile\",\"noisedata\":270,\"alias\":\"SENSE #1\"}" "ResultFile.dat" "Logs.txt" "http://cloudmrhub.com/Q"
+ 1258  cd ..
+ 1259  ls -a
+ 1260  cd ..
+ 1261  ls -a
+ 1262  cd ACMcompiled
+ 1263  ls -a
+ 1264  vim run_MrOptimum_ACM.sh
+ 1265  docker ps
+ 1266  docker exec -it matlab_r2020a /bin/bash
+ 1267  docker exec -it matlab_r2020a /usr/src/app/ACMcompiled/MrOptimum_ACM.app/Contents/MacOS/applauncher  
+ 1268  docker exec -it matlab_r2020a "/usr/src/app/ACMcompiled/MrOptimum_ACM.app/Contents/MacOS/applauncher" 
+ 1269  docker exec -it matlab_r2020a "/usr/src/app/ACMcompiled/MrOptimum_ACM.app/Contents/MacOS/MrOptimum_ACM"  
+ 1270  docker exec -it matlab_r2020a /bin/bash
+ 1271  ls -a
+ 1272  ./run_MrOptimum_ACM.sh MrOptimum_ACM.app
+ 1273  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98/
+ 1274  echo $DYD_LIBRARY_PATH
+ 1275  export $DYD_LIBRARY_PATH=/Applications/MATLAB/MATLAB_Runtime/v98/runtime/maci64:/Applications/MATLAB/MATLAB_Runtime/v98/sys/os/maci64:/Applications/MATLAB/MATLAB_Runtime/v98/bin/maci64:/Applications/MATLAB/MATLAB_Runtime/v98/extern/bin/maci64
+ 1276  export $DYD_LIBRARY_PATH=/Applications/MATLAB/MATLAB_Runtime/v98/runtime/maci64:/Applications/MATLAB/MATLAB_Runtime/v98/sys/os/maci64:/Applications/MATLAB/MATLAB_Runtime/v98/bin/maci64:/Applications/MATLAB/MATLAB_Runtime/v98/extern/bin/maci64
+ 1277  echo $DYD_LIBRARY_PATH
+ 1278  export $DYD_LIBRARY_PATH=/Applications/MATLAB/MATLAB_Runtime/v98/runtime/maci64:/Applications/MATLAB/MATLAB_Runtime/v98/sys/os/maci64:/Applications/MATLAB/MATLAB_Runtime/v98/bin/maci64
+ 1279  vim run_MrOptimum_ACM.sh
+ 1280  vim run_MrOptimum_ACM.sh
+ 1281  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98
+ 1282  ls -a
+ 1283  cd for_testing
+ 1284  ls -a
+ 1285  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98
+ 1286  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 . Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.dat Logs.txt http://cloudmrhub.com/Q
+ 1287  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 . Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.dat Logs.txt
+ 1288  l s-a
+ 1289  ls -a
+ 1290  cp ../../../../mroptimum/WEBSERVER/ACMWORKER.m .
+ 1291  cp ../../../../mroptimum/MATLABCODE ..
+ 1292  cp -r ../../../../mroptimum/MATLABCODE ../MATLABCODE
+ 1293  ls -a ..
+ 1294  cp ../../../../mroptimum/MATLABCODE/test/drawTest/ACM.json@ ../MATLABCODE/test/drawTest
+ 1295  vim ../../../../mroptimum/MATLABCODE/test/drawTest/ACM.json@
+ 1296  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 . Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.dat Logs.txt
+ 1297  ls -a
+ 1298  vim readme.txt
+ 1299  ls -a
+ 1300  vim ACMWORKER.m
+ 1301  vim ../../MATLABCODE/ESPRIT/README.m
+ 1302  mv ../../MATLABCODE/ESPRIT/README.m ../../MATLABCODE/ESPRIT/README.txt
+ 1303  pwd
+ 1304  pwd ..
+ 1305  cd ..
+ 1306  pwd
+ 1307  cd for_testing
+ 1308  ls -a
+ 1309  mv ../MATLABCODE/ESPRIT/README.m ../MATLABCODE/ESPRIT/README.txt
+ 1310  vim ../MATLABCODE/test/snr_toolbox_batch_testv1.m
+ 1311  vim ../MATLABCODE/test/snr_toolbox_batch_testv1.m
+ 1312  rm -r ../MATLABCODE/test/
+ 1313  ls -a ../MATLABCODE/test/
+ 1314  ls -a ../MATLABCODE/
+ 1315  vim ../MATLABCODE/test/snr_toolbox_batch_testv1.m
+ 1316  ls -a
+ 1317  ls -lha
+ 1318  vim requiredMCRProducts.txt
+ 1319  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 . Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.dat Logs.txt
+ 1320  ls -a
+ 1321  vim ResultFile.dat
+ 1322  ls -a
+ 1323  vim ACMWORKER.m
+ 1324  vim ../MATLABCODE/Utils/CLOUDMRgetOptions.m
+ 1325  vim ACMWORKER.m
+ 1326  vim ACMWORKER.m
+ 1327  vim ../MATLABCODE/Utils/CLOUDMRgetclassfromOptions.m
+ 1328  vim ../../../../mroptimum/WEBSERVER/ACM.py
+ 1329  vim ../../../../mroptimum/WEBSERVER/ACMtask.m
+ 1330  vim ../../../../mroptimum/WEBSERVER/ACMtask.m
+ 1331  history 0 > histfile.txt
+ 1332  vim histfile.txt
+ 1333  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 . Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.dat Logs.txt http://cloudmrhub.com/Q
+ 1334  vim histfile.txt
+ 1335  pwd
+ 1336  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 . Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.dat Logs.txt
+ 1337  vim run_MrOptimum_ACM.sh
+ 1338  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 . Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.dat Logs.txt
+ 1339  ls -a
+ 1340  vim ResultFile.dat
+ 1341  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 . Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.dat Logs.txt
+ 1342  vim ResultFile.dat
+ 1343  ls -a
+ 1344  cd ..
+ 1345  ls -a
+ 1346  cd MATLABCODE
+ 1347  ls -a
+ 1348  cd BARTmatlab
+ 1349  ls -a
+ 1350  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 . Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.dat Logs.txt http://cloudmrhub.com/Q
+ 1351  cd ../..
+ 1352  ls -a
+ 1353  cd for_testing
+ 1354  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 . Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.json Logs.txt http://cloudmrhub.com/Q
+ 1355  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat options.json ResultFile.json Logs.txt http://cloudmrhub.com/Q
+ 1356  vim ResultFile.dat
+ 1357  ls -a
+ 1358  vim Logs.txt
+ 1359  vim options.json
+ 1360  ./run_MrOptimum_ACM.sh /Applications/MATLAB/MATLAB_Runtime/v98 Signal_Data_Multislice_MULTIRAID.dat Noise_Data_Multislice.dat http://cloudmrhub.com/apps/MROPTIMUM/APPDATA/147/ACM/J/ACMOPT_5d1d0afd204bd.json ResultFile.json Logs.txt http://cloudmrhub.com/Q
+ 1361  vim ResultFile.json
+ 1362  vim Logs.txt
+ 1363  vim run_MrOptimum_ACM.sh
+ 1364  ls -a
+ 1365  cd ../..
+ 1366  ls -a
+ 1367  cd ACMcompiled
+ 1368  cd ..
+ 1369  vim Dockerfile
+ 1370  vim ACMcompiled/for_testing/run_MrOptimum_ACM.sh
+ 1371  history 0
+ 1372  :q
+ 1373  ls -a
+ 1374  vim Dockerfile
