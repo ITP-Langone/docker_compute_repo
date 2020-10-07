@@ -1,1 +1,0 @@
-{"Type":"SENSE","FlipAngleMap":"no","SensitivityCalculationMethod":"simplesense","SaveCoils":false,"SourceCoilSensitivityMap":"self","SourceCoilSensitivityMapSmooth":false,"AccelerationF":1,"AccelerationP":1,"Autocalibration":0,"GFactorMask":"no","NBW":1,"type":"SENSE","signaldata":271,"NoiseFileType":"noiseFile","noisedata":270,"alias":"SENSE #1"}

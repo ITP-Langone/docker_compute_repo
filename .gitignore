@@ -7,7 +7,6 @@ ec2deb.pem
 MATLABCODE/ESPRIT/
 DockerfileFullInstall
 Dockerfile.R2019b
-TestData/
 .gitOld/
 .DS_Store
 ACMcompiled/
